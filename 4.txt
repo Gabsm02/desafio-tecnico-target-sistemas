@@ -1,0 +1,1 @@
+Para resolver o enigma dos interruptores e lâmpadas em uma sala sem vê-las, eu ligaria dois interruptores de cada vez e observaria qual lâmpada acende. Assim deduziri qual interruptor controla qual lâmpada. Então determinar a associação entre os interruptores e as lâmpadas em apenas duas visitas à sala das lâmpadas.
