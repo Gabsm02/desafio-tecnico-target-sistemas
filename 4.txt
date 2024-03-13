@@ -1,1 +1,13 @@
-Para resolver o enigma dos interruptores e lâmpadas em uma sala sem vê-las, eu ligaria dois interruptores de cada vez e observaria qual lâmpada acende. Assim deduziri qual interruptor controla qual lâmpada. Então determinar a associação entre os interruptores e as lâmpadas em apenas duas visitas à sala das lâmpadas.
+Em uma visita à sala das lâmpadas:
+
+Ligaria o primeiro interruptor e esperaria alguns minutos.
+Desligaria o primeiro interruptor e ligaria o segundo interruptor.
+Deixaria o segundo interruptor ligado e entraria na sala das lâmpadas.
+Agora, ao entrar na sala das lâmpadas, restia três possíveis cenários:
+
+A lâmpada que estiver acesa, o primeiro interruptor controla essa lâmpada.
+A lâmpada que estiver apagada e sentir calor ao tocar, o segundo interruptor controla essa lâmpada.
+A lâmpada estiver apagada e fria ao tocar, o terceiro interruptor controla essa lâmpada.
+
+
+
